@@ -11,7 +11,7 @@ All code was originally developed using the micro:bit block‑coding language on
 
 ### Automatic Tree Farm (2021)
 
-![Figure 1: Automatic Tree Farm](Automatic Tree Farm/system/design.png)
+![Figure 1: Automatic%20Tree%20Farm](Automatic Tree Farm/system/design.png)
 **Mission Statement:** _Automating reforestation to fight climate change by building smart, scalable tree farms that restore ecosystems after bushfires._
 
 **Automatic Tree Farm** is a large‑scale reforestation system designed to combat the effects of bushfires and rising CO₂ levels. The project leverages a network of micro:bits to automate soil humidity monitoring, temperature tracking, watering, and camera control within an indoor vertical farm. Each farm unit grows trees in three stacked layers, with sensors and servo motors ensuring optimal growth conditions under human supervision. When replanting is needed after bushfires, the farm provides a ready supply of healthy trees, reducing recovery time and supporting climate action (Goal 13). Future updates aim to integrate automated nutrient management and a mechanical grabber system to transport and plant trees directly in affected areas, making the farm a scalable and sustainable solution for environmental restoration.
@@ -29,7 +29,7 @@ All code was originally developed using the micro:bit block‑coding language on
 
 ### Room Monitoring System (2022)
 
-![Figure 2: Room Monitoring System](Room Monitoring System/system/design.png)
+![Figure 2: Room%20Monitoring%20System](Room Monitoring System/system/design.png)
 **Mission Statement:** _Creating healthier indoor environments by monitoring air quality and protecting people from passive smoking risks._
 
 **Room‑Monitoring System** is an indoor health and safety solution designed to reduce the harmful effects of smoking in enclosed spaces such as restaurants and coffee shops. The system uses a network of micro:bits connected to sensors that track temperature, humidity, and smoke levels. Data from multiple sensing units is averaged and displayed on a monitoring panel, which alerts staff when conditions become unsafe. By guiding actions such as opening windows, adjusting AC, or activating ventilation, the system helps maintain a healthier atmosphere and reduces the risk of virus transmission linked to poor air quality. Future upgrades aim to integrate advanced chemical sensors, AI‑driven automated responses, and mobile app connectivity, making the system scalable for hospitals, homes, and other public spaces.

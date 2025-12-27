@@ -29,7 +29,7 @@ All code was originally developed using the micro:bit block‑coding language on
 
 ### Room Monitoring System (2022)
 
-![Figure 2: Room Monitoring System](Room%20Monitoring%20System/system/design.png)
+![Figure 2: Room Monitoring System](Room%20Monitiring%20System/system/design.png)
 **Mission Statement:** _Creating healthier indoor environments by monitoring air quality and protecting people from passive smoking risks._
 
 **Room‑Monitoring System** is an indoor health and safety solution designed to reduce the harmful effects of smoking in enclosed spaces such as restaurants and coffee shops. The system uses a network of micro:bits connected to sensors that track temperature, humidity, and smoke levels. Data from multiple sensing units is averaged and displayed on a monitoring panel, which alerts staff when conditions become unsafe. By guiding actions such as opening windows, adjusting AC, or activating ventilation, the system helps maintain a healthier atmosphere and reduces the risk of virus transmission linked to poor air quality. Future upgrades aim to integrate advanced chemical sensors, AI‑driven automated responses, and mobile app connectivity, making the system scalable for hospitals, homes, and other public spaces.
